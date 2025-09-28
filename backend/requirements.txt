@@ -1,0 +1,6 @@
+mcp[cli]
+fastapi
+uvicorn[standard]
+requests
+feedparser
+python-dotenv
